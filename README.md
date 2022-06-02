@@ -24,8 +24,11 @@ Staggered spinup could be do the job to reduce current consumption, but I haven'
 ![assembled connector right](/assets/images/power-connector-right.png)
 
 ## sas connector
+
 both connectors are SFF-8087
+
 I only use port 1
+
 ![sas connector](/assets/images/sas-connectors-sff-8087.png)
 
 ## stl files
