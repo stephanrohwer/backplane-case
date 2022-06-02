@@ -25,7 +25,7 @@ Staggered spinup could be do the job to reduce current consumption, but I haven'
 
 ## sas connector
 
-both connectors are SFF-8087
+Both connectors are of type SFF-8087
 
 I only use port 1
 
@@ -36,7 +36,7 @@ I only use port 1
 [Download v0.0](/stl/backplane-case-v0.0.7z)
 
 ### wall
-![wall](/stl/v0.0/wall-0.0.1.png)
+![wall](/stl/v0.0/wall-v0.0.1.png)
 
 ### mount
 ![mount](/stl/v0.0/mount-v0.0.1.png)
