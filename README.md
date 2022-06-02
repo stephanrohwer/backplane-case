@@ -20,21 +20,29 @@ On my chia farm I used 24 drives with two backplanes and on spinup current is at
 Staggered spinup could be do the job to reduce current consumption, but I haven't tested it.
 
 ![assembled connector left](/assets/images/power-connector-left.png)
+
 ![assembled connector right](/assets/images/power-connector-right.png)
+
+## sas connector
+both connectors are SFF-8087
+I only use port 1
+![sas connector](/assets/images/sas-connectors-sff-8087.png)
 
 ## stl files
 
+[Download v0.0](/stl/backplane-case-v0.0.7z)
+
 ### wall
-![wall](/assets/stl/v0.0/wall-0.0.1.png)
+![wall](/stl/v0.0/wall-0.0.1.png)
 
 ### mount
-![mount](/assets/stl/v0.0/mount-v0.0.1.png)
+![mount](/stl/v0.0/mount-v0.0.1.png)
 
 ### bridges
-![bridge](/assets/stl/v0.0/bridge-v0.0.1.png)
+![bridge](/stl/v0.0/bridge-v0.0.1.png)
 
 ### slider for drives
-![slider](/assets/stl/v0.0/slider-v0.0.1.png)
+![slider](/stl/v0.0/slider-v0.0.1.png)
 
 ### fan mount
 *under development*
