@@ -1,4 +1,6 @@
-# stackable HDD backplane case with small footprint *under development*
+# stackable HDD backplane case with small footprint
+
+*currently under development*
 
 ![single rack without drives](/assets/images/single-rack-without.png)
 
