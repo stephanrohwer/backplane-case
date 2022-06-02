@@ -18,6 +18,7 @@
 I used a variable power supply to check current consumption on spinup.
 On my chia farm I used 24 drives with two backplanes and on spinup current is at 26A max, but on regular farming at 13A.
 Staggered spinup could be do the job to reduce current consumption, but I haven't tested it.
+
 ![assembled connector left](/assets/images/power-connector-left.png)
 ![assembled connector right](/assets/images/power-connector-right.png)
 
@@ -46,3 +47,5 @@ Staggered spinup could be do the job to reduce current consumption, but I haven'
 - ?x fan mount
 - 20x [ruthex M3](https://www.ruthex.de/collections/gewindeeinsatze/products/ruthex-gewindeeinsatz-m3-100-stuck-rx-m3x5-7-messing-gewindebuchsen)
 - 72x hdd drive screws flat head unc #6-32
+- 10x flat-head m3 for mount
+- 10x m3 for bridge
