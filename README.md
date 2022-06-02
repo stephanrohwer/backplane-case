@@ -62,3 +62,7 @@ I only use port 1
 - 72x hdd drive screws flat head unc #6-32
 - 10x flat-head m3 for mount
 - 10x m3 for bridge
+
+## How to Support
+
+If you find this helpful and want to support the development, feel free to give this repo a ⭐ or donate some Chia (XCH) to my address: `xch1a7w92fae87csykes5fm8hlj5rrkq6gmn84x0plmrdexjj7cwdcnqm4klt9`
