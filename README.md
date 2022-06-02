@@ -24,23 +24,25 @@ Staggered spinup could be do the job to reduce current consumption, but I haven'
 ## stl files
 
 ### wall
-![wall](/assets/images/stl-wall.png)
+![wall](/assets/stl/v0.0/wall-0.0.1.png)
 
 ### mount
-![mount](/assets/images/stl-mount.png)
-
-### slider for drives
-![slider](/assets/images/stl-slider.png)
+![mount](/assets/stl/v0.0/mount-v0.0.1.png)
 
 ### bridges
-![bridge](/assets/images/stl-bridge.png)
+![bridge](/assets/stl/v0.0/bridge-v0.0.1.png)
+
+### slider for drives
+![slider](/assets/stl/v0.0/slider-v0.0.1.png)
 
 ### fan mount
 *under development*
 
 ## needed parts
-5x wall
-5x mount
-8x bridges
-24x sliders (2x for each drive)
-?x fan mount
+- 5x wall
+- 5x mount
+- 8x bridges
+- 24x sliders (2x for each drive)
+- ?x fan mount
+- 20x [ruthex M3](https://www.ruthex.de/collections/gewindeeinsatze/products/ruthex-gewindeeinsatz-m3-100-stuck-rx-m3x5-7-messing-gewindebuchsen)
+- 72x hdd drive screws flat head unc #6-32
