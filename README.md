@@ -2,8 +2,6 @@
 
 **Build for HP 647407-001 SAS-Backplane (compatibility with other backplanes unknown)**
 
-*currently under development*
-
 ![single rack without drives](/assets/images/single-rack-without.png)
 
 ![single rack with some drives](/assets/images/single-rack-with.png)
